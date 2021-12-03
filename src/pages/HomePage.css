@@ -1,0 +1,25 @@
+.info {
+  display: flex;
+  justify-content: center;
+  margin-top: 4rem;
+}
+.info > p {
+  font-weight: 400;
+  font-size: 28px;
+  color: #292c6d;
+}
+.info_img {
+  display: flex;
+}
+.info_img a {
+  display: flex;
+  height: 300px;
+  width: 300px;
+  object-fit: contain;
+  margin-left: 200px;
+}
+.info_img > img:hover {
+  transition: 0.3s all ease-in;
+  scale: 1;
+  cursor: pointer;
+}
