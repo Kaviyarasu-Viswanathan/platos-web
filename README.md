@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+### 1. Node.js offers easy scalability:
+One of the key benefits offered by Nodejs is that it makes it easy for developers to scale the application in horizontal as well as vertical directions. The application can be scaled in a horizontal dimension by adding extra nodes to the current system.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Furthermore, Node.js also allows adding extra resources to the single node during the vertical scaling of the application. Hence, NodeJS is highly scalable and offers greater options than other JavaScript servers.
 
-## Available Scripts
+### 2. Full-stack JavaScript:
+Node.js has regarded as a full-stack JavaScript for serving server-side applications as well as the client.
 
-In the project directory, you can run:
+The benefit of using Nodejs is that you need not hire remote developers for front-end and back-end, which saves your valuable money and time.
 
-### `npm start`
+### 3. Offer High Performance:
+As mentioned earlier, Node.js interprets the JavaScript code through Google’s V8 JavaScript engine. The engine compiles JavaScript code directly into the machine code. Hence, it becomes easy to implement the code. Moreover, it can be done quickly and in an effective manner.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Read Also: Node vs php
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### $. Single Programming Language:
+With Node.js it becomes possible for developers to write the server-side application in JavaScript. This means that when you Hire Nodejs developers they can write both front-end and back-end applications in JavaScript using a runtime environment.
 
-### `npm test`
+### 5. Large and Active Community:
+Node.js have a large and active community of developers who keep on contributing towards the further improvement and development of this server-side JavaScript.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Developers working on Node.js have supported well by JavaScript programmers who provide them with easy and ready-made solutions and codes in GitHub.
 
-### `npm run build`
+### 6. The ability of Caching:
+The open-source runtime environment of the Node.js provides the ability to cache a single module. The entire request for the first modules gets cache in the application memory.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 7. Support for Commonly Used Tools:
+With Node.js, developers receive extend support for various commonly used tools. If you want to test the source code of Node.js application, you can do it by using Jasmin and other such testing tools.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Similarly, if you want to install or identify the project dependencies, you can make use of npm, which is a powerful package manager. 
+### 8. Handles Requests Simultaneously:
+Node.js provides the option of non-blocking I/O systems. It helps you to process several server requests simultaneously.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Node.js system can handle the concurrent requests better than Ruby or Python. The incoming requests get lined up and are addressing quickly and systematically.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Disadvantages of using Node.js
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 1. API is not stable:
+One of the key problems that developers encounter while working on Node.js is the Application Programming Interface keeps on changing in frequent intervals and does not remain stable.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+At times, you will see a new API with multiple backward-incompatible changes. As a result, developers are oblige to make changes in the accessible code bases to remain in tune with the latest version of Node.js API.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Read Also: NodeJS vs AngularJS
 
-## Learn More
+### 2. Library Support System is not strong:
+Compared to other languages, JavaScript does not have a robust and well-equipped library system.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+As a result, users are force to take support from the commonly available library for executing tasks, such as processing and handling database operations, Object-Relational Mapping, XML parsing, etc.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This makes it difficult for developers to implement common programming tasks using Node.js.
 
-### Code Splitting
+### 3. Asynchronous Programming Model:
+If you want to boost the scalability of the application, the requirement is that the application should adopt an asynchronous programming model.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+However, developers find this model to be more difficult as compared to linear blocking I/O programming.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Another disadvantage of the asynchronous programming model is that the code becomes clumsy, and programmers need to depend on the nested calls.
